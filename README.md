@@ -1,4 +1,13 @@
-Saída esperada ![image](https://user-images.githubusercontent.com/79227339/181866506-65fdf9f1-eb77-4653-8da3-392a28d13151.png)
+Saída esperada 1 
+![image](https://user-images.githubusercontent.com/79227339/181866506-65fdf9f1-eb77-4653-8da3-392a28d13151.png)
+
+Saída esperada 2
+![image](https://user-images.githubusercontent.com/79227339/181866586-ef3d94c6-950b-4356-9d39-006f72d2902d.png)
+
+Saída esperada 3
+![image](https://user-images.githubusercontent.com/79227339/181866637-13f4785f-deb3-46d7-a449-ea6cbce1d6d3.png)
+
+*Valores variam de acordo com as medições de log da API.
 
 # Contexto 1
 
