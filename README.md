@@ -1,4 +1,5 @@
-# pecSmart
+Saída esperada ![image](https://user-images.githubusercontent.com/79227339/181866506-65fdf9f1-eb77-4653-8da3-392a28d13151.png)
+
 # Contexto 1
 
 Dentro da PecSmart possuímos múltiplos sensores, de diferentes tipos, cada um possuindo um identificador único associado ao hardware. Sendo único, não deveria repetir na base, porém como seu cadastro é feito de forma manual, falhas podem acontecer.
