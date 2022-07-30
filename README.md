@@ -6,7 +6,8 @@ Saída esperada 2 - Ângulo de inclinação
 ![image](https://user-images.githubusercontent.com/79227339/181866586-ef3d94c6-950b-4356-9d39-006f72d2902d.png)
 
 Saída esperada 3 - Porcentagem de erro em medição dos microfones
-![image](https://user-images.githubusercontent.com/79227339/181866637-13f4785f-deb3-46d7-a449-ea6cbce1d6d3.png)
+![image](https://user-images.githubusercontent.com/79227339/181866746-da79d4e9-f7bb-4445-9e55-cfa8ea7c177b.png)
+
 
 *Valores variam de acordo com as medições de log da API.
 
